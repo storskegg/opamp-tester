@@ -1034,7 +1034,7 @@
 				)
 			)
 		)
-		(property "Value" "TL072"
+		(property "Value" "TL072H"
 			(at 0 3.4 0)
 			(layer "F.Fab")
 			(uuid "6a4815d8-64c4-4d0b-b519-93519767cfaf")
@@ -1058,7 +1058,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tl072h.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1085,7 +1085,7 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
-		(path "/2c82db92-71f2-4dbc-a023-5860f99b2634")
+		(path "/45333173-b290-4910-a863-81d67d7eea8f")
 		(sheetname "Root")
 		(sheetfile "KiCAD_Custom_DRC_Rules_for_PCBWay.kicad_sch")
 		(attr smd)
@@ -10855,28 +10855,12 @@
 		(uuid "4c1440d9-0a61-4a51-825a-83fa5d9a7309")
 	)
 	(segment
-		(start 121.88 107.5)
-		(end 121.5 107.88)
-		(width 0.5)
-		(layer "F.Cu")
-		(net 3)
-		(uuid "51beaaf4-97fa-4356-ac85-55846f39bb70")
-	)
-	(segment
 		(start 119.5 82.55)
 		(end 119.5 76.08)
 		(width 0.5)
 		(layer "F.Cu")
 		(net 3)
 		(uuid "65a70d7b-646d-4c0f-b967-01bd0de035ea")
-	)
-	(segment
-		(start 119.5 76.08)
-		(end 119.42 76)
-		(width 0.5)
-		(layer "F.Cu")
-		(net 3)
-		(uuid "755589dd-ba76-48f2-bc1e-4732f9b2fe49")
 	)
 	(segment
 		(start 57.315 118.92)
@@ -11423,14 +11407,6 @@
 		(uuid "5c4c1fee-4e62-4c41-8439-2c8c0d6e85ff")
 	)
 	(segment
-		(start 111.5 76.3)
-		(end 111.8 76)
-		(width 0.5)
-		(layer "F.Cu")
-		(net 13)
-		(uuid "3c323d11-d7dd-4560-8105-395367d6483e")
-	)
-	(segment
 		(start 111.5 82.5875)
 		(end 111.5 76.3)
 		(width 0.5)
@@ -11453,14 +11429,6 @@
 		(layer "F.Cu")
 		(net 14)
 		(uuid "2c2515d6-e62b-4b22-93cf-8453f2a0f677")
-	)
-	(segment
-		(start 117 68.26)
-		(end 116.88 68.38)
-		(width 0.5)
-		(layer "F.Cu")
-		(net 14)
-		(uuid "4660e1c3-7bda-48f4-8d80-de8342e60649")
 	)
 	(segment
 		(start 117 62.4125)
@@ -11517,14 +11485,6 @@
 		(layer "F.Cu")
 		(net 31)
 		(uuid "82e622a5-f174-4a1b-979a-d0c5a7ba2604")
-	)
-	(segment
-		(start 121.74 100.5)
-		(end 121.5 100.26)
-		(width 0.5)
-		(layer "F.Cu")
-		(net 31)
-		(uuid "c6019dea-d484-458f-be61-486ac910dd27")
 	)
 	(segment
 		(start 113.88 102.8)

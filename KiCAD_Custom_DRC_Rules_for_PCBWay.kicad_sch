@@ -4054,7 +4054,7 @@
 				)
 			)
 		)
-		(property "Value" "TL072"
+		(property "Value" "TL072H"
 			(at 82.55 26.67 0)
 			(effects
 				(font
@@ -4071,7 +4071,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tl072h.pdf"
 			(at 82.55 34.29 0)
 			(effects
 				(font
@@ -4747,7 +4747,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TL072"
+		(property "Value" "TL072H"
 			(at 124.46 33.0201 0)
 			(effects
 				(font
@@ -4765,7 +4765,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tl072h.pdf"
 			(at 128.27 34.29 0)
 			(effects
 				(font
@@ -5061,7 +5061,7 @@
 				)
 			)
 		)
-		(property "Value" "TL072"
+		(property "Value" "TL072H"
 			(at 43.18 78.74 0)
 			(effects
 				(font
@@ -5078,7 +5078,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tl072h.pdf"
 			(at 43.18 86.36 0)
 			(effects
 				(font
