@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.5*%
+%TF.CreationDate,2024-11-03T20:31:12-06:00*%
+%TF.ProjectId,KiCAD_Custom_DRC_Rules_for_PCBWay,4b694341-445f-4437-9573-746f6d5f4452,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.5) date 2024-11-03 20:31:12*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X48500000Y-47000000D02*
+X138500000Y-47000000D01*
+X138500000Y-127000000D01*
+X48500000Y-127000000D01*
+X48500000Y-47000000D01*
+M02*
