@@ -1,7 +1,7 @@
 # opamp-tester
 
 A simple tester for OpAmps. This is a gratuitous copy of the schematic shown in
-IMSAIGuy's videos; see link below.
+@IMSAIGuy's videos; see link below.
 
 The reason why I did this build is that I wanted to add support for testing single
 opamps in addition to dual and quad. Additionally, I chose to space things out a bit
